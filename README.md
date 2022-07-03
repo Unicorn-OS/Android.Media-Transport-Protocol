@@ -1,0 +1,2 @@
+# Android.Media-Transport-Protocol
+https://www.google.com/search?q=fedora+android+mtp , https://www.google.com/search?q=media+transfer+protocol ; wiki: https://en.wikipedia.org/wiki/Media_Transfer_Protocol https://www.google.com/search?q=media+transfer+protocol+android ; pkg: https://src.fedoraproject.org/rpms/android-file-transfer ; problem: https://ask.fedoraproject.org/t/fedora33-android-mtp-devices-do-not-open-in-any-file-manager/11264
